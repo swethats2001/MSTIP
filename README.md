@@ -15,8 +15,8 @@ Real-World Testing:
 Predict whether a sample email is spam or ham using the trained model.
 
 ## Features
-1.Classifies emails as Spam or Ham (Non-Spam).
-2.Utilizes TF-IDF to convert email text into numerical features.
-3.Implements Logistic Regression for accurate and efficient classification.
-4.Evaluates model performance using accuracy score metrics.
-5.Includes real-world testing with sample email inputs.
+1. Classifies emails as Spam or Ham (Non-Spam).
+2. Utilizes TF-IDF to convert email text into numerical features.
+3. Implements Logistic Regression for accurate and efficient classification.
+4. Evaluates model performance using accuracy score metrics.
+5. Includes real-world testing with sample email inputs.
