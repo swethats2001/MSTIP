@@ -1,5 +1,5 @@
 # Email Spam Detector Using Python and Machine Learning
-This repository contains the internship task I did for my Data Science Internship at MindShift Technologies. This project focuses on building an Email Spam Detector that classifies emails as Spam or Ham (Non-Spam) using Python and Machine Learning techniques. The project uses TF-IDF Vectorization for feature extraction and Logistic Regression for classification.
+This repository contains the internship task I did for my Data Analyst Internship at MindShift Technologies. This project focuses on building an Email Spam Detector that classifies emails as Spam or Ham (Non-Spam) using Python and Machine Learning techniques. The project uses TF-IDF Vectorization for feature extraction and Logistic Regression for classification.
 ## Project Workflow
 1. Data Preprocessing:
 Load the dataset using Pandas.
